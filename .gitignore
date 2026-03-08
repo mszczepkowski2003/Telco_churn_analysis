@@ -1,0 +1,49 @@
+# --- DATA ---
+data/raw_data*
+!data/raw_data/.gitkeep
+data/processed_data*
+!data/processed_data/.gitkeep
+
+*.db
+*.sqlite3
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- JUPYTER NOTEBOOKS ---
+.ipynb_checkpoints/
+.jupyter/
+notebooks/exp_cleaning_eda.ipynb
+notebooks/exp_pipeline.ipynb
+notebooks/exp_structuring.ipynb
+
+
+# --- DB CONNECTION & SECRETS ---
+.env
+*.env
+
+# --- NOTES ---
+notes/
+
+# --- VIRTUAL ENVIRONMENTS ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- macOS ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# --- IDE/EDITORS ---
+.vscode/
+.idea/
+
+# --- LOGS ---
+logs/
+*.log
