@@ -9,7 +9,6 @@
 ![Docker](https://img.shields.io/badge/Docker-19.03-4662D1.svg)
 [**IBM Telco Customer Churn Dataset**](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00148)
 
-> **Ważna uwaga dla rekruterów:** 
 > **[Kliknij tutaj, aby zobaczyć Podsumowanie & Raport EDA (Quarto HTML)](https://churn-eda-report.netlify.app/)** 🌟  
 > *Ten szczegółowy raport Quarto przeprowadza przez wszystkie etapy procesu eksploracji i oraz czyszczenia danych*
 
